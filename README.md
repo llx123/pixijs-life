@@ -1,0 +1,2 @@
+# pixijs-life
+pixijs-demo
